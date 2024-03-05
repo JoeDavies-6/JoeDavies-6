@@ -1,5 +1,4 @@
-### Hi there 👋
-
+##### As part of my PhD at the University of Nottingham in the Hirst group I'm working on the development of AI4Green, an open-source and free to use electronic laboratory notebook (ELN) for organic chemists with integrated machine learning and data-driven methods to support and encourage more sustainable chemistry.
 <!--
 **JoeDavies-6/JoeDavies-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
